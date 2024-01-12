@@ -1,0 +1,6 @@
+api/.env
+official-mern-chatapp/.env
+.idea
+api/node_modules
+official-mern-chatapp/node_modules
+api/uploads/*
